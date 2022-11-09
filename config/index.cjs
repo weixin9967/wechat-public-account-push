@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'Q6qnvl6OLMc9zqHIAGmYPQvT2pyiXm5qSckKj7fpBM0',
+  APP_ID: 'wxec6c54761d83cb87',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '2c6fe5c3f2cb05929ff8d3b4f2c3c205',
+  APP_SECRET: '5d98be614cc493d1ea02cd399f837d03',
   //模板id
   //TEMPLATE_ID:'Q6qnvl6OLMc9zqHIAGmYPQvT2pyiXm5qSckKj7fpBM0',
 
