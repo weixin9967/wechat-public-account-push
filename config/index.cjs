@@ -12,8 +12,6 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '5d98be614cc493d1ea02cd399f837d03',
-  //模板id
-  //TEMPLATE_ID:'Q6qnvl6OLMc9zqHIAGmYPQvT2pyiXm5qSckKj7fpBM0',
 
   PROVINCE: '海南省',
   CITY: '三亚',
@@ -23,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '小李',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oRlv556AwFGcqRYVWPgAJIcM21C4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'Q6qnvl6OLMc9zqHIAGmYPQvT2pyiXm5qSckKj7fpBM0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
